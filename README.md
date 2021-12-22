@@ -5,13 +5,13 @@
 1. https://prometheus.io/docs/guides/go-application/
 2. https://github.com/prometheus/client_golang
 
-## Отладка
-```
+### Отладка
+```bash
 go run go_exporter.go
 ```
 
-## Сборка
-```
+### Сборка
+```bash
 go build go_exporter.go
 ./go_exporter
 ```
